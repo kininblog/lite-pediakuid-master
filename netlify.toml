@@ -1,0 +1,53 @@
+[build]
+  command = "npm run build"
+  publish = "_site/"
+
+[build.environment]
+  RUBY_VERSION = "3.3.5"
+
+[context.production.environment]
+  JEKYLL_ENV = "production"
+
+[context.deploy-preview.environment]
+  JEKYLL_ENV = "staging"
+
+[dev]
+  command = "npm run start"
+  publish = "_site/"
+
+[[plugins]]
+  package = "netlify-plugin-cloudinary"
+
+  [plugins.inputs]
+  cloudName = "andrewstiefel"
+  imagesPath = "/assets/img"
+
+[functions]
+  directory = "netlify/functions/"
+  node_bundler = "esbuild"
+
+[[redirects]]
+  from = "https://andrew.st/*"
+  to = "https://andrewstiefel.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/newsletter"
+  to = "/letters"
+  status = 301
+
+[[headers]]
+  for = "/portfolio"
+  [headers.values]
+    X-Robots-Tag = "noindex"
+
+[[headers]]
+  for = "/almost"
+  [headers.values]
+    X-Robots-Tag = "noindex"
+
+[[headers]]
+  for = "/thanks"
+  [headers.values]
+    X-Robots-Tag = "noindex"

@@ -1,0 +1,17 @@
+### CATEGORIES
+articles:
+  description: |
+    Mostly objective writing exploring a single topic or idea
+
+essays:
+  description: |
+    Narrative writing with a distinct point of view
+
+notes:
+  description: |
+    Short-form writing that connects sources and asks questions
+
+### TAGS
+jekyll:
+  description: |
+    Jekyll is a simple, blog-aware, static site generator. Think of it like a file-based CMS, without all the complexity.

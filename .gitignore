@@ -1,0 +1,29 @@
+# Jekyll specific
+_site/
+.jekyll-cache
+.jekyll-metadata
+
+# Obsidian
+.obsidian
+
+# Ruby dependencies
+.ruby-version
+.bundle
+Gemfile.lock
+vendor/bundle
+vendor/cache
+vendor/gems
+vendor/ruby
+
+# Node dependencies
+node_modules
+package-lock.json
+yarn.lock
+
+# Logs and temp files
+*.log
+*.swp
+*.swo
+*.DS_Store
+*.bak
+*.tmp

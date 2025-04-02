@@ -1,0 +1,75 @@
+### SITE SETTINGS
+title: "Kinin"
+tagline: "Bloging & Tech Info"
+description: "Kinin adalah blog personal yang membahas hal-hal menarik seputar blogger, tutorial jekyll, teknologi dan tips bermain game"
+url: "https://kinin.web.id"
+timezone: "America/Los_Angeles"
+
+### SITE AUTHOR
+author:
+  name: "Nanda Fransiska"
+  url: "https://nanda.pediaku.id"
+  email: "nandafransiska.mail@gmail.com"
+  twitter: ""
+  linkedin: ""
+  mastodon: ""
+  bluesky: ""
+  medium: ""
+  github: "azzadoe"
+
+# OPEN GRAPH IMAGE SETTINGS
+ogImageBackground: "/assets/img/og-background.png"
+cloudinary_cloud: "andrewstiefel"
+
+### BUILD & PLUGIN SETTINGS
+markdown: kramdown
+highlighter: rouge
+permalink: "/:title/"
+include:
+  - "_pages"
+
+plugins:
+  - jekyll-archives
+  - jekyll-last-modified-at
+  - jekyll-sitemap
+  - jekyll-target-blank
+  - jekyll-tailwindcss
+  - jekyll-tidy
+
+### DEFAULTS
+defaults:
+  - scope:
+      path: ""       # Empty string for all files
+      type: "posts"  # Limit to posts
+    values:
+      is_post: true  # Automatically set is_post=true for all posts
+
+### JEKYLL ARCHIVE SETTINGS
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: archive
+  permalinks:
+    category: "/:name/"
+    tag: "/tag/:name/"
+
+### JEKYLL TIDY SETTINGS
+jekyll_tidy:
+  exclude:
+    - "feed.xml"
+    - "assets/js/bundle.js"
+
+### EXCLUSIONS
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "gulpfile.babel.js"
+  - "LICENSE.md"
+  - "node_modules"
+  - ".obsidian"
+  - "package.json"
+  - "package-lock.json"
+  - "README.md"
+  - "tailwind.config.js"
+  - "netlify.toml"
