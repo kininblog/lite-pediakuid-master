@@ -49,8 +49,9 @@ layout: default
           </div>
         {% endif %}
         {% include components/newsletter-box.html %}
-
+        {% if page.comments %}
         {% include forms/disqus.html %}
+        {% endif %}
         </div>
       </div>
     </section>  

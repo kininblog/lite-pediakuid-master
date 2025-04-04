@@ -7,7 +7,7 @@ permalink:
 image: 
 date: 2025-03-03
 category: Jekyll
-comment: true
+comments: true
 tags:
   - blogging
   - writing

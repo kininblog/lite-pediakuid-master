@@ -4,6 +4,7 @@ title: Cara Membuat dengan Blog Jekyll dan Github Pages
 description: Untuk membuat blog di Jekyll sangat mudah, bahkan bagi pemula sekalipun. Kamu hanya perlu mengikuti panduan beberapa langkah untuk membuat blog jekyll, mempostingnya di github dan blog jekyll mu sudah jadi.
 permalink: 
 image: 
+comments: true
 date: 2025-03-03
 category: Jekyll
 tags:
