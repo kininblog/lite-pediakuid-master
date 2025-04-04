@@ -1,0 +1,100 @@
+
+<div>
+    <div class="max-w-3xl mx-auto bg-white shadow-xl rounded-lg overflow-hidden">
+       
+        <div class="p-8">
+            <div class="mb-6">
+                <label for="codes" class="block text-gray-700 text-sm font-semibold mb-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-5 h-5 inline-block mr-1 -mt-0.5">
+                        <path fill-rule="evenodd" d="M12 2.25c-5.384 0-9.75 4.366-9.75 9.75s4.366 9.75 9.75 9.75 9.75-4.366 9.75-9.75S17.384 2.25 12 2.25zM12 8.25a.75.75 0 01.75.75v3a.75.75 0 01-1.5 0v-3a.75.75 0 01.75-.75zM11.25 14.25a.75.75 0 001.5 0v-3a.75.75 0 00-1.5 0v3z" clip-rule="evenodd" />
+                    </svg>
+                    Kode HTML
+                </label>
+                <textarea id="codes" placeholder="Tempelkan kode HTML di sini..." spellcheck="false"
+                    class="shadow-sm focus:ring-indigo-500 focus:border-indigo-500 block w-full sm:text-sm border-gray-300 rounded-md h-60 font-mono text-sm text-gray-800 bg-gray-50 p-4 resize-none"></textarea>
+            </div>
+            <div class="mb-4 flex justify-center space-x-3">
+                <button id="convert" onclick="cdConvert(); this.disabled = true;"
+                    class="bg-red-600 hover:bg-indigo-600 text-white font-semibold py-2.5 px-5 rounded-md focus:outline-none focus:ring-2 focus:ring-indigo-400 focus:ring-offset-2 transition duration-150 ease-in-out">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-5 h-5 inline-block mr-2 -mt-0.5">
+                        <path fill-rule="evenodd" d="M19.958 10.5c0-2.065-1.232-3.982-3.146-5.052l-4.256-2.25a.75.75 0 00-.938 0l-4.256 2.25A5.25 5.25 0 004.042 10.5H2.25a.75.75 0 000 1.5h1.792a5.25 5.25 0 001.114 2.452l4.256 2.25a.75.75 0 00.938 0l4.256-2.25A5.25 5.25 0 0019.958 10.5zM12 14.25a3 3 0 100-6 3 3 0 000 6z" clip-rule="evenodd" />
+                    </svg>
+                    Parse
+                </button>
+                <button onclick="cdClear();"
+                    class="bg-gray-200 hover:bg-gray-300 text-gray-700 font-semibold py-2.5 px-5 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-offset-2 transition duration-150 ease-in-out">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-5 h-5 inline-block mr-2 -mt-0.5">
+                        <path d="M19.5 5.5a.5.5 0 01.5.5v12a.5.5 0 01-.5.5h-15a.5.5 0 01-.5-.5V6a.5.5 0 01.5-.5h15zM5 7.5h14v9h-14v-9z" />
+                        <path d="M8 9a1 1 0 10-2 0 1 1 0 002 0zM12 9a1 1 0 10-2 0 1 1 0 002 0zM16 9a1 1 0 10-2 0 1 1 0 002 0z" />
+                    </svg>
+                    Bersihkan
+                </button>
+            </div>
+            <div class="mt-6 border-t border-gray-200 pt-6">
+                <h3 class="text-lg font-semibold text-gray-700 mb-3">Opsi Konversi</h3>
+                <ul id="wrapin" class="space-y-3 text-sm text-gray-600">
+                    <li>
+                        <label class="inline-flex items-center">
+                            <input checked="true" id="opt1" type="checkbox" class="form-checkbox h-4 w-4 text-indigo-600 focus:ring-indigo-500 border-gray-300 rounded transition duration-150 ease-in-out" />
+                            <span class="ml-2">Konversi <code>&amp;</code> menjadi <code>&amp;amp;</code></span>
+                        </label>
+                    </li>
+                    <li>
+                        <label class="inline-flex items-center">
+                            <input checked="true" id="opt2" type="checkbox" class="form-checkbox h-4 w-4 text-indigo-600 focus:ring-indigo-500 border-gray-300 rounded transition duration-150 ease-in-out" />
+                            <span class="ml-2">Konversi <code>&lt;</code> menjadi <code>&amp;lt;</code></span>
+                        </label>
+                    </li>
+                    <li>
+                        <label class="inline-flex items-center">
+                            <input checked="true" id="opt3" type="checkbox" class="form-checkbox h-4 w-4 text-indigo-600 focus:ring-indigo-500 border-gray-300 rounded transition duration-150 ease-in-out" />
+                            <span class="ml-2">Konversi <code>&gt;</code> menjadi <code>&amp;gt;</code></span>
+                        </label>
+                    </li>
+                    <li>
+                        <label class="inline-flex items-center">
+                            <input id="opt4" type="checkbox" class="form-checkbox h-4 w-4 text-indigo-600 focus:ring-indigo-500 border-gray-300 rounded transition duration-150 ease-in-out" />
+                            <span class="ml-2">Konversi <code>"</code> menjadi <code>&amp;quot;</code></span>
+                        </label>
+                    </li>
+                    <li>
+                        <label class="inline-flex items-center">
+                            <input id="opt5" type="checkbox" class="form-checkbox h-4 w-4 text-indigo-600 focus:ring-indigo-500 border-gray-300 rounded transition duration-150 ease-in-out" />
+                            <span class="ml-2">Konversi <code>'</code> menjadi <code>&amp;#039;</code></span>
+                        </label>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="bg-gray-100 border-t border-gray-200 py-3 px-6 text-center text-xs text-gray-500">
+            Dibuat dengan <a href="https://tailwindcss.com/" target="_blank" class="text-indigo-500 hover:underline">Tailwind CSS</a> oleh <a href="https://kinin.web.id" target="_blank" class="text-blue-500 hover:underline font-trebuchet">kinin</a>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        function cdClear() {
+            var wtarea = document.getElementById('codes');
+            wtarea.value = '';
+            wtarea.focus();
+            document.getElementById('convert').disabled = false;
+        }
+        function cdConvert() {
+            var ctarea = document.getElementById('codes'),
+                cv = ctarea.value,
+                opt1 = document.getElementById('opt1'),
+                opt2 = document.getElementById('opt2'),
+                opt3 = document.getElementById('opt3'),
+                opt4 = document.getElementById('opt4'),
+                opt5 = document.getElementById('opt5');
+            cv = cv.replace(/\t/g, "    ");
+            if (opt1.checked) cv = cv.replace(/&/g, "&amp;");
+            if (opt2.checked) cv = cv.replace(/</g, "&lt;");
+            if (opt3.checked) cv = cv.replace(/>/g, "&gt;");
+            if (opt4.checked) cv = cv.replace(/"/g, "&quot;");
+            if (opt5.checked) cv = cv.replace(/'/g, "&#039;");
+            ctarea.value = cv;
+            ctarea.focus();
+            ctarea.select();
+        };
+    </script>
+ </div>

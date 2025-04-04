@@ -1,0 +1,139 @@
+<div>
+    <div class="max-w-3xl mx-auto bg-white shadow-xl rounded-lg overflow-hidden">
+        <div class="bg-gradient-to-r from-blue-500 to-indigo-600 py-6 px-8">
+            <h1 class="text-2xl font-bold text-white tracking-tight">CSS Minifier</h1>
+            <p class="text-indigo-200 mt-1 text-sm">Kompres kode CSS Anda secara efisien.</p>
+        </div>
+        <div class="p-8">
+            <div class="mb-6">
+                <label for="cssField" class="block text-gray-700 text-sm font-semibold mb-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-5 h-5 inline-block mr-1 -mt-0.5">
+                        <path fill-rule="evenodd" d="M12 2.25c-5.384 0-9.75 4.366-9.75 9.75s4.366 9.75 9.75 9.75 9.75-4.366 9.75-9.75S17.384 2.25 12 2.25zM12 8.25a.75.75 0 01.75.75v3a.75.75 0 01-1.5 0v-3a.75.75 0 01.75-.75zM11.25 14.25a.75.75 0 001.5 0v-3a.75.75 0 00-1.5 0v3z" clip-rule="evenodd" />
+                    </svg>
+                    Masukkan CSS
+                </label>
+                <textarea autofocus id="cssField" placeholder="Salin kode CSS di sini..."
+                    class="shadow-sm focus:ring-indigo-500 focus:border-indigo-500 block w-full sm:text-sm border-gray-300 rounded-md h-60 font-mono-custom text-sm text-gray-800 bg-gray-50 p-4 resize-none"></textarea>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
+                <div>
+                    <h3 class="text-lg font-semibold text-gray-700 mb-3">Opsi Minifikasi</h3>
+                    <div class="space-y-3 text-sm text-gray-600">
+                        <div>
+                            <label class="inline-flex items-center">
+                                <input id="stripAllComment" type="checkbox" class="form-checkbox h-4 w-4 text-indigo-600 focus:ring-indigo-500 border-gray-300 rounded transition duration-150 ease-in-out" />
+                                <span class="ml-2">Hapus semua komentar</span>
+                            </label>
+                        </div>
+                        <div>
+                            <label class="inline-flex items-center">
+                                <input id="superCompact" type="checkbox" class="form-checkbox h-4 w-4 text-indigo-600 focus:ring-indigo-500 border-gray-300 rounded transition duration-150 ease-in-out" />
+                                <span class="ml-2">Mode super compact (tanpa spasi berlebih)</span>
+                            </label>
+                        </div>
+                        <div>
+                            <label class="inline-flex items-center">
+                                <input id="betterIndentation" type="checkbox" class="form-checkbox h-4 w-4 text-indigo-600 focus:ring-indigo-500 border-gray-300 rounded transition duration-150 ease-in-out" />
+                                <span class="ml-2">Pertahankan indentasi (untuk keterbacaan hasil)</span>
+                            </label>
+                        </div>
+                        <div>
+                            <label class="inline-flex items-center">
+                                <input checked id="keepLastComma" type="checkbox" class="form-checkbox h-4 w-4 text-indigo-600 focus:ring-indigo-500 border-gray-300 rounded transition duration-150 ease-in-out" />
+                                <span class="ml-2">Hapus titik koma terakhir dalam setiap aturan</span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+                <div class="flex flex-col justify-end space-y-3">
+                    <button onclick="compressCSS('cssField')"
+                        class="bg-indigo-500 hover:bg-indigo-600 text-white font-semibold py-2.5 px-5 rounded-md focus:outline-none focus:ring-2 focus:ring-indigo-400 focus:ring-offset-2 transition duration-150 ease-in-out">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-5 h-5 inline-block mr-2 -mt-0.5">
+                            <path fill-rule="evenodd" d="M16.72 7.72a.75.75 0 011.06 0l3.75 3.75a.75.75 0 01-1.06 1.06L16.72 8.78a.75.75 0 010-1.06zM4.5 9a.75.75 0 000 1.5h10.5a.75.75 0 000-1.5H4.5zM6.78 12.28a.75.75 0 00-1.06 0L2.25 15.75a.75.75 0 001.06 1.06L6.78 13.34a.75.75 0 000-1.06zM6 18a.75.75 0 01.75-.75h10.5a.75.75 0 010 1.5H6.75A.75.75 0 016 18zM19.22 15.22a.75.75 0 010 1.06l-3.75 3.75a.75.75 0 11-1.06-1.06l3.75-3.75a.75.75 0 011.06 0z" clip-rule="evenodd" />
+                        </svg>
+                        Minifikasi CSS
+                    </button>
+                    <button onclick="clearField('cssField')"
+                        class="bg-gray-200 hover:bg-gray-300 text-gray-700 font-semibold py-2.5 px-5 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-offset-2 transition duration-150 ease-in-out">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-5 h-5 inline-block mr-2 -mt-0.5">
+                            <path d="M19.5 5.5a.5.5 0 01.5.5v12a.5.5 0 01-.5.5h-15a.5.5 0 01-.5-.5V6a.5.5 0 01.5-.5h15zM5 7.5h14v9h-14v-9z" />
+                            <path d="M8 9a1 1 0 10-2 0 1 1 0 002 0zM12 9a1 1 0 10-2 0 1 1 0 002 0zM16 9a1 1 0 10-2 0 1 1 0 002 0z" />
+                        </svg>
+                        Bersihkan
+                    </button>
+                    <button onclick="selectAll('cssField')"
+                        class="bg-gray-200 hover:bg-gray-300 text-gray-700 font-semibold py-2.5 px-5 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-offset-2 transition duration-150 ease-in-out">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-5 h-5 inline-block mr-2 -mt-0.5">
+                            <path d="M3 4a1 1 0 011-1h16a1 1 0 011 1v16a1 1 0 01-1 1H4a1 1 0 01-1-1V4z" />
+                        </svg>
+                        Pilih Semua
+                    </button>
+                    <button onclick="copyAll()"
+                        class="bg-green-500 hover:bg-green-600 text-white font-semibold py-2.5 px-5 rounded-md focus:outline-none focus:ring-2 focus:ring-green-400 focus:ring-offset-2 transition duration-150 ease-in-out">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-5 h-5 inline-block mr-2 -mt-0.5">
+                            <path d="M15.75 11.25a3 3 0 11-6 0 3 3 0 016 0z" />
+                            <path fill-rule="evenodd" d="M1.5 4.5a3 3 0 013-3h15a3 3 0 013 3v15a3 3 0 01-3 3H4.5a3 3 0 01-3-3V4.5zm3-1.5a1.5 1.5 0 00-1.5 1.5v15a1.5 1.5 0 001.5 1.5h15a1.5 1.5 0 001.5-1.5V4.5a1.5 1.5 0 00-1.5-1.5H4.5z" clip-rule="evenodd" />
+                        </svg>
+                        Salin
+                    </button>
+                </div>
+            </div>
+            <div class="mb-6">
+                <label for="cssResult" class="block text-gray-700 text-sm font-semibold mb-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-5 h-5 inline-block mr-1 -mt-0.5">
+                        <path d="M12 1.5a5.25 5.25 0 00-5.25 5.25v3a3 3 0 00-3 3v6.75a.75.75 0 00.75.75h10.5a.75.75 0 00.75-.75V12a3 3 0 00-3-3v-3A5.25 5.25 0 0012 1.5z" />
+                    </svg>
+                    Hasil Minifikasi
+                </label>
+                <textarea id="cssResult" placeholder="Hasil minifikasi akan muncul di sini..."
+                    class="shadow-sm focus:ring-indigo-500 focus:border-indigo-500 block w-full sm:text-sm border-gray-300 rounded-md h-60 font-mono-custom text-sm text-gray-800 bg-gray-50 p-4 resize-none" readonly></textarea>
+            </div>
+        </div>
+        <div class="bg-gray-100 border-t border-gray-200 py-3 px-6 text-center text-xs text-gray-500">
+          Sebuah tool css oleh <a href="https://kinin.web.id/" target="_blank" class="text-indigo-500 hover:underline">Kinin Blog</a>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        function get(e) { return document.getElementById(e); }
+        function compressCSS(e) {
+            var inputCSS = get(e).value;
+            var stripComments = get('stripAllComment').checked;
+            var superCompact = get('superCompact').checked;
+            var keepIndentation = get('betterIndentation').checked;
+            var removeLastSemicolon = get('keepLastComma').checked;
+            var resultCSS = inputCSS;
+
+            if (stripComments || superCompact) {
+                resultCSS = resultCSS.replace(/\/\*[\w\W]*?\*\//gm, '');
+            }
+
+            resultCSS = resultCSS.replace(/[\n\r\t]+/g, ' ');
+            resultCSS = resultCSS.replace(/\s*([\{\}\:\;\,])\s*/g, '$1');
+            resultCSS = resultCSS.replace(/\s+/g, ' ');
+
+            if (!superCompact && keepIndentation) {
+                resultCSS = resultCSS.replace(/\{/g, '{\n  ');
+                resultCSS = resultCSS.replace(/\}/g, '\n}');
+                resultCSS = resultCSS.replace(/\;(?!\})/g, ';\n  ');
+            } else if (removeLastSemicolon) {
+                resultCSS = resultCSS.replace(/;\}/g, '}');
+            } else {
+                resultCSS = resultCSS.replace(/\;/g, ';');
+            }
+
+            resultCSS = resultCSS.replace(/(^\s+|\s+$)/, '');
+
+            get('cssResult').value = resultCSS;
+        }
+        function clearField(e) { var a = get(e); a.value = ""; a.focus(); get('cssResult').value = ""; }
+        function selectAll(e) { var a = get(e); a.focus(); a.select(); }
+        function copyAll() {
+            var e = get("cssResult");
+            e.select();
+            e.setSelectionRange(0, 99999);
+            document.execCommand("copy");
+            alert("Hasil minifikasi telah disalin ke clipboard!");
+        }
+    </script>
+    </div>

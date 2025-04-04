@@ -43,7 +43,7 @@ defaults:
       type: "posts"  # Limit to posts
     values:
       is_post: true  # Automatically set is_post=true for all posts
-
+disqus: kinin
 ### JEKYLL ARCHIVE SETTINGS
 jekyll-archives:
   enabled:

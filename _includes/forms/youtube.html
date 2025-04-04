@@ -1,0 +1,155 @@
+<div>
+    <!-- Header Section -->
+    
+
+    <!-- Main Tool Section -->
+    <main class="container mx-auto px-4 max-w-3xl">
+        <!-- Input Section -->
+        <div class="bg-white rounded-lg shadow-md p-6 mb-6">
+            <div class="flex gap-4 mb-4">
+                <input 
+                    type="url" 
+                    id="youtubeUrl"
+                    placeholder="Masukkan URL video YouTube..."
+                    class="flex-1 p-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-red-500"
+                >
+                <button 
+                    onclick="processUrl()"
+                    class="bg-red-600 text-white px-6 py-3 rounded-lg hover:bg-red-700 transition-colors"
+                >
+                    Generate
+                </button>
+            </div>
+            <div id="loading" class="hidden text-center text-gray-600">
+                Memproses...
+            </div>
+        </div>
+
+        <!-- Results Grid -->
+        <div id="results" class="grid grid-cols-1 md:grid-cols-2 gap-4"></div>
+    </main>
+
+    <!-- SEO Content Section -->
+    <section class="container mx-auto px-4 max-w-3xl mt-12 prose prose-lg">
+        <h2 class="text-2xl font-bold mb-4">YouTube Thumbnail Downloader: Cara Mudah Mendapatkan Gambar Thumbnail YouTube</h2>
+        
+        <!-- Konten tetap sama -->
+    </section>
+</div>
+<script>
+    // Konfigurasi yang diperbarui
+    const qualityMap = {
+        'Max Quality': 'maxresdefault',
+        'HD Quality': 'hqdefault',
+        'SD Quality': 'sddefault',
+        'Medium Quality': 'mqdefault',
+        'Default': 'default'
+    }
+    
+    async function processUrl() {
+        const url = document.getElementById('youtubeUrl').value;
+        const videoId = extractVideoId(url);
+        
+        if (!videoId) {
+            alert('URL YouTube tidak valid! Contoh URL yang benar:\nhttps://www.youtube.com/watch?v=VIDEO_ID');
+            return;
+        }
+    
+        showLoading(true);
+        clearResults();
+    
+        try {
+            const thumbnails = await generateThumbnails(videoId);
+            displayResults(thumbnails, videoId);
+        } catch (error) {
+            alert('Gagal memproses: ' + error.message);
+        } finally {
+            showLoading(false);
+        }
+    }
+    
+    // Fungsi extractVideoId yang diperbarui
+    function extractVideoId(url) {
+        const pattern = /^.*(youtu\.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]{11}).*/;
+        const match = url.match(pattern);
+        return match ? match[2] : null;
+    }
+    
+    // Generate thumbnail URLs tanpa pengecekan CORS
+    function generateThumbnails(videoId) {
+        return Object.entries(qualityMap).map(([name, path]) => ({
+            name,
+            url: `https://img.youtube.com/vi/${videoId}/${path}.jpg`
+        }));
+    }
+    
+    // Display results yang diperbarui
+    function displayResults(thumbnails, videoId) {
+        const container = document.getElementById('results');
+        container.innerHTML = ''; // Clear previous results
+    
+        thumbnails.forEach(({name, url}) => {
+            const card = document.createElement('div');
+            card.className = 'bg-white rounded-lg shadow-md overflow-hidden';
+            card.innerHTML = `
+                <div class="relative h-48 bg-gray-200">
+                    <img 
+                        src="${url}" 
+                        alt="${name}" 
+                        class="w-full h-full object-cover"
+                        loading="lazy"
+                        onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"
+                    >
+                    <div class="absolute inset-0 hidden items-center justify-center p-4 text-center">
+                        <p class="text-red-500">Thumbnail tidak tersedia dalam resolusi ini</p>
+                    </div>
+                </div>
+                <div class="p-4">
+                    <h4 class="font-bold mb-2">${name}</h4>
+                    <div class="flex flex-wrap gap-2">
+                        ${['JPG', 'PNG', 'WEBP'].map(format => `
+                            <button 
+                                data-url="${url}"
+                                data-filename="${videoId}_${name.replace(' ', '_')}"
+                                data-format="${format}"
+                                class="download-btn px-3 py-2 text-sm bg-red-100 text-red-700 rounded hover:bg-red-200 transition-colors"
+                            >
+                                Download ${format}
+                            </button>
+                        `).join('')}
+                    </div>
+                </div>
+            `;
+            container.appendChild(card);
+        });
+    
+        // Event listeners untuk download
+        document.querySelectorAll('.download-btn').forEach(button => {
+            button.addEventListener('click', (e) => {
+                const url = e.target.dataset.url;
+                const format = e.target.dataset.format;
+                const filename = e.target.dataset.filename;
+                downloadImage(url, format, filename);
+            });
+        });
+    }
+    
+    // Fungsi download yang lebih sederhana
+    function downloadImage(url, format, filename) {
+        const link = document.createElement('a');
+        link.href = url + '?download=' + format;
+        link.download = `${filename}.${format.toLowerCase()}`;
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+    }
+    
+    // Fungsi helper tetap sama
+    function showLoading(show) {
+        document.getElementById('loading').style.display = show ? 'block' : 'none';
+    }
+    
+    function clearResults() {
+        document.getElementById('results').innerHTML = '';
+    }
+    </script>
