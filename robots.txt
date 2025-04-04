@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kinin.web.id/sitemap.xml
+Sitemap: https://kinin.web.id/feed.xml
