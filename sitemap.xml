@@ -1,0 +1,39 @@
+---
+layout: null
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {%- comment -%}
+  Bagian ini akan memproses semua posting (blog posts)
+  {%- endcomment -%}
+  {% for post in site.posts %}
+    {%- unless post.published == false -%}
+  <url>
+    <loc>{{ site.url }}{{ post.url | remove: 'index.html' }}</loc>
+    <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+    {%- endunless -%}
+  {% endfor %}
+
+  {%- comment -%}
+  Bagian ini memproses halaman-halaman (site pages)
+  Hanya halaman yang tidak diatur untuk dikecualikan (misalnya, sitemap: false) yang akan dimasukkan.
+  {%- endcomment -%}
+  {% for page in site.pages %}
+    {% if page.sitemap != false and page.url != '/sitemap.xml' %}
+  <url>
+    <loc>{{ site.url }}{{ page.url | remove: 'index.html' }}</loc>
+    {% if page.date %}
+      <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
+    {% else %}
+      <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    {% endif %}
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+    {% endif %}
+  {% endfor %}
+</urlset>
