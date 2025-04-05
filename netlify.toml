@@ -25,29 +25,3 @@
 [functions]
   directory = "netlify/functions/"
   node_bundler = "esbuild"
-
-[[redirects]]
-  from = "https://andrew.st/*"
-  to = "https://andrewstiefel.com/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/newsletter"
-  to = "/letters"
-  status = 301
-
-[[headers]]
-  for = "/portfolio"
-  [headers.values]
-    X-Robots-Tag = "noindex"
-
-[[headers]]
-  for = "/almost"
-  [headers.values]
-    X-Robots-Tag = "noindex"
-
-[[headers]]
-  for = "/thanks"
-  [headers.values]
-    X-Robots-Tag = "noindex"
