@@ -1,5 +1,32 @@
-User-agent: *
-Allow: /
+# If you want to learn about why our robots.txt looks like this, read this post: 
 
+# Global rules
+# -----------------
+User-agent: *
+Disallow: https://kinin.web.id/404.html
+
+
+# We're experimenting with blocking search results to prevent search result spam
+
+
+# Sitemap
+# -----------------
 Sitemap: https://kinin.web.id/sitemap.xml
-Sitemap: https://kinin.web.id/feed.xml
+
+# Ban bots that don't benefit us.
+# --------------------------------
+
+User-agent: Nuclei
+User-agent: WikiDo
+User-agent: Riddler
+User-agent: PetalBot
+User-agent: Zoominfobot
+User-agent: Go-http-client
+User-agent: Node/simplecrawler
+User-agent: CazoodleBot
+User-agent: dotbot/1.0
+User-agent: Gigabot
+User-agent: Barkrowler
+User-agent: BLEXBot
+User-agent: magpie-crawler
+Disallow: /
