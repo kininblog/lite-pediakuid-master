@@ -16,6 +16,8 @@ author:
   bluesky: ""
   medium: ""
   github: "azzadoe"
+disqus:
+    shortname: kinin  # Here's where you put your unique shortname
 
 # OPEN GRAPH IMAGE SETTINGS
 ogImageBackground: "/assets/img/og-background.png"

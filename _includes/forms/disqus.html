@@ -1,14 +1,71 @@
-<section class="disqus">
-    <div id="disqus_thread"></div>
-    <script type="text/javascript">
-        var disqus_shortname = '{{site.disqus}}'; 
-        var disqus_developer = 0;
-        (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = window.location.protocol + '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-    </script>
-    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+<section>
+<div class="bg-blue-100 border-t border-b border-blue-500 text-blue-700 px-4 py-3" role="alert">
+  <p class="font-bold">Yuk Beri Komentar Mu!</p>
+  <p class="text-sm">Kamu baru saja membaca artikel tentang <i><a href="{{ page.url }}" alt="{{ page.title }}">{{ page.title }}</a></i>, bagaimana pendapatmu? Yuk diskusi dengan kinin .</p>
+</div>
 </section>
+
+
+<br/>
+<div id="disqus_thread"></div>
+<script>
+  (function() {
+    'use strict';
+    
+    var disqus_thread = document.getElementById('disqus_thread');
+    var disqus_loaded = false;
+    
+    function loadDisqus() {
+      if (disqus_loaded) return;
+      disqus_loaded = true;
+      
+      var disqus_config = function() {
+        this.page.url = "{{ site.url }}{{ page.url }}";
+        this.page.identifier = "{{ site.url }}{{ page.url }}";
+      };
+      
+      var d = document, s = d.createElement('script');
+      s.src = 'https://kinin.disqus.com/embed.js';
+      s.async = true;
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    }
+
+    function isInViewport(el) {
+      var rect = el.getBoundingClientRect();
+      return (
+        rect.top <= window.innerHeight && 
+        rect.bottom >= 0
+      );
+    }
+
+    function debounce(func, delay) {
+      var timeout;
+      return function() {
+        var context = this, args = arguments;
+        clearTimeout(timeout);
+        timeout = setTimeout(function() {
+          func.apply(context, args);
+        }, delay);
+      };
+    }
+
+    var checkVisible = debounce(function() {
+      if (disqus_thread && isInViewport(disqus_thread)) {
+        loadDisqus();
+        window.removeEventListener('scroll', checkVisible);
+        window.removeEventListener('resize', checkVisible);
+      }
+    }, 150);
+
+    window.addEventListener('scroll', checkVisible);
+    window.addEventListener('resize', checkVisible);
+    
+    // Initial check
+    checkVisible();
+  })();
+</script>
+<noscript>
+  Please enable JavaScript to view the 
+  <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+</noscript>

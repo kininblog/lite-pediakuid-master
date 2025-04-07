@@ -32,6 +32,7 @@ layout: default
     <section class="grid grid-cols-6 py-4">
       <div class="col-span-full lg:col-start-2 lg:col-span-4">
         <div class="lg:col-start-2 col-span-4 prose prose-custom">
+
           {{ content }}
         </div>
       </div>
@@ -48,11 +49,10 @@ layout: default
           {% endfor %}
           </div>
         {% endif %}
-        {% include components/newsletter-box.html %}
-        {% if page.comments %}
+
+        <!--{% include components/newsletter-box.html %}-->
         {% include forms/disqus.html %}
-        {% endif %}
-        </div>
+      </div>
       </div>
     </section>  
   </article>
