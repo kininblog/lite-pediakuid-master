@@ -3,7 +3,7 @@
 # Global rules
 # -----------------
 User-agent: *
-Disallow: https://kinin.web.id/404.html
+Disallow: https://pediaku.id/404.html
 
 
 # We're experimenting with blocking search results to prevent search result spam
@@ -11,7 +11,7 @@ Disallow: https://kinin.web.id/404.html
 
 # Sitemap
 # -----------------
-Sitemap: https://kinin.web.id/sitemap.xml
+Sitemap: https://pediaku.id/sitemap.xml
 
 # Ban bots that don't benefit us.
 # --------------------------------

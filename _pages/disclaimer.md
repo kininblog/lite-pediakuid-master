@@ -6,7 +6,7 @@ permalink: /disclaimer/
 ---
 
 ## Informasi Umum
-Selamat datang di blog kinin.web.id Kami menyediakan berbagai informasi, opini, dan panduan seputar berbagai topik. Sebelum Anda menggunakan situs web kami, harap baca dengan seksama disclaimer ini. Dengan mengakses dan menggunakan situs web ini, Anda setuju untuk terikat oleh ketentuan dan syarat yang tercantum di sini.
+Selamat datang di blog pediaku.id Kami menyediakan berbagai informasi, opini, dan panduan seputar berbagai topik. Sebelum Anda menggunakan situs web kami, harap baca dengan seksama disclaimer ini. Dengan mengakses dan menggunakan situs web ini, Anda setuju untuk terikat oleh ketentuan dan syarat yang tercantum di sini.
 
 ## Konten
 ### 1. Akurasi Informasi
