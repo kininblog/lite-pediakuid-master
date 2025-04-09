@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "5 Makanan Sehat Superfood Khas Indonesia"
+title:  "Servis Mobil untuk Mudik? Kunjungi Bengkel Astra Daihatsu Indramayu!"
 author: nanda
-category: pendidikan
-tags: makanan
+category: otomotif
+tags: otomotif, daihatsu
 keywords: bengkel daihatsu indramayu, astra daihatsu indramayu, bengkel daihatsu, bengkel astra daihatsu, outlet daihatsu indramayu, gatot subroto daihatsu bengkel
 description: engkel Astra Daihatsu Indramayu kini telah beroperasi sebagai outlet VSP! Nikmati layanan servis resmi dan spare part Daihatsu tanpa perlu ke luar kota. Kunjungi kami di Jl. Gatot Subroto, Indramayu.
 toc: true
-image: assets/images/astra-daihatsu.png
+image: assets/images/bengkel-astra-daihatsu.png
 ---
 Halo, Sahabat Daihatsu\! Pastinya mudik menjadi momen yang dinanti-nanti, dan memastikan kendaraan dalam kondisi prima sebelum perjalanan jauh adalah hal yang sangat penting.
 
