@@ -71,10 +71,10 @@ Pencegahan selalu lebih baik daripada mengobati. Berikut adalah beberapa langkah
 
 ### Menjaga Pola Makan Sehat
 
-Nutrisi yang baik sangat penting untuk perkembangan otak dan sistem saraf anak. Pastikan anak mendapatkan asupan makanan yang kaya akan vitamin dan mineral, seperti:
+Nutrisi yang baik sangat penting untuk perkembangan otak dan sistem saraf anak. Pastikan anak mendapatkan asupan [makanan yang kaya akan vitamin dan mineral](https://pediaku.id/makanan-superfood-khas-indonesia/), seperti:
 
 - **Asam Lemak Omega-3:** Ditemukan dalam ikan salmon, sarden, dan kacang kenari, membantu dalam perkembangan otak.
-- **Vitamin B Kompleks:** Penting untuk fungsi saraf yang optimal. Konsumsi makanan seperti daging tanpa lemak, telur, dan produk susu.
+- **Vitamin B Kompleks:** Penting untuk fungsi saraf yang optimal. Konsumsi [makanan sehat ](https://pediaku.id/cemilan-sehat-untuk-diet/)seperti daging tanpa lemak, telur, dan produk susu.
 - **Antioksidan:** Sayuran hijau, buah beri, dan kacang-kacangan dapat membantu melindungi sel-sel saraf dari kerusakan.
 
 ### Menciptakan Lingkungan yang Aman
@@ -102,7 +102,7 @@ Selain langkah-langkah pencegahan umum, berikut beberapa tips praktis yang bisa 
 
 ### 1. Berikan Waktu Berkualitas untuk Bermain
 
-Bermain bukan hanya tentang hiburan, tetapi juga merupakan bagian penting dari perkembangan saraf anak. Melalui bermain, anak belajar mengkoordinasikan gerakan, berpikir kreatif, dan berinteraksi sosial. Pastikan anak memiliki waktu yang cukup untuk bermain di luar ruangan dan terlibat dalam aktivitas yang merangsang kreativitas.
+Bermain bukan hanya tentang hiburan, tetapi juga merupakan bagian penting dari perkembangan saraf anak. Melalui bermain, anak belajar mengkoordinasikan gerakan, [berpikir kreatif](https://pediaku.id/buku-who-will-cry-when-your-die/), dan berinteraksi sosial. Pastikan anak memiliki waktu yang cukup untuk bermain di luar ruangan dan terlibat dalam aktivitas yang merangsang kreativitas.
 
 ### 2. Batasi Paparan Layar
 

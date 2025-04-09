@@ -12,7 +12,7 @@ image: assets/images/adegan-film.webp
 
 Dikutip dari ***[filmbarat.id](https://filmbarat.id)***, Sinema adalah medium yang terus berevolusi. Setiap era melahirkan adegan-adegan yang tidak hanya menghibur, tetapi juga menciptakan terobosan teknis atau budaya. Dari transisi film bisu ke bersuara, hingga penggunaan teknologi CGI yang memukau, momen-momen ini menjadi penanda kemajuan industri perfilman.  
 
-Namun, tidak semua inovasi datang dengan prediksi yang jelas. Siapa sangka bahwa adegan mandi dalam ***[Film Thriller](https://filmbarat.id/rekomendasi-film/daftar-film-thriller-penuh-misteri-yang-bikin-tegang/)*** *Psycho* (1960) akan mengubah cara sutradara membangun ketegangan? Atau bahwa tembakan ke layar di *The Great Train Robbery* (1903) menjadi inspirasi teknik *breaking the fourth wall*? Inilah 10 adegan yang membuktikan bahwa sebuah momen bisa **mengubah sejarah sinema selamanya**!
+Namun, tidak semua inovasi datang dengan prediksi yang jelas. Siapa sangka bahwa adegan mandi dalam ***[Film Thriller](https://filmbarat.id/rekomendasi-film/daftar-film-thriller-penuh-misteri-yang-bikin-tegang/)*** *Psycho* (1960) akan mengubah cara sutradara membangun ketegangan? Atau bahwa tembakan ke layar di *The Great Train Robbery* (1903) menjadi inspirasi teknik *breaking the fourth wall*? Inilah [10 adegan  film (https://pediaku.id/adegan-film-paling-revolusioner/)]yang membuktikan bahwa sebuah momen bisa **mengubah sejarah sinema selamanya**!
 
 ---
 
@@ -77,5 +77,5 @@ Sergei Eisenstein menciptakan montase paling berpengaruh sepanjang masa. Adegan 
 ---
 
 ### **Penutup**  
-Dari terobosan teknologi hingga adegan yang menantang norma sosial, setiap momen di atas adalah bukti bahwa sinema adalah seni yang hidup. **Adegan mana yang paling menginspirasimu?**   
+Dari terobosan [teknologi](https://pediaku.id/teknologi-perang-dunia-2/) hingga adegan yang menantang norma sosial, setiap momen di atas adalah bukti bahwa sinema adalah seni yang hidup. **Adegan mana yang paling menginspirasimu?**   
 

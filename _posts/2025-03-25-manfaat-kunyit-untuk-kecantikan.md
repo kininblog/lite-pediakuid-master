@@ -12,7 +12,7 @@ image: assets/images/kunyit.webp
 
 Kunyit telah lama dikenal sebagai salah satu bahan alami yang memiliki segudang manfaat untuk perawatan kulit. Dengan kandungan aktif seperti kurkumin, kunyit mampu memberikan efek antioksidan, anti-inflamasi, dan antibakteri yang sangat bermanfaat untuk mengatasi berbagai masalah kulit, mulai dari ***[sumber](https://kerisnews.id/)*** masalah jerawat hingga hiperpigmentasi. Penggunaan kunyit dalam rutinitas kecantikan memberikan alternatif alami yang tidak hanya efektif tetapi juga ramah bagi kulit.
 
-Seiring dengan berkembangnya tren perawatan alami, semakin banyak metode modern yang menggabungkan keunggulan tradisi dengan teknologi kecantikan terkini. Tak heran jika beberapa tips dan teknik yang sedang populer, seperti ***[Perawatan Kulit ala Selebriti](https://kerisnews.id/kecantikan/perawatan-kulit-ala-selebriti-produk-untuk-kulit-sehat/)***, banyak mengintegrasikan bahan-bahan alami seperti kunyit untuk menghasilkan kulit yang lebih cerah dan sehat. Artikel ini akan mengulas secara mendalam manfaat kunyit untuk kecantikan kulit beserta cara-cara praktis untuk mengaplikasikannya dalam perawatan harian.
+Seiring dengan berkembangnya tren perawatan alami, semakin banyak metode modern yang menggabungkan keunggulan tradisi dengan teknologi kecantikan terkini. Tak heran jika beberapa tips dan teknik yang sedang populer, seperti ***[Perawatan Kulit ala Selebriti](https://kerisnews.id/kecantikan/perawatan-kulit-ala-selebriti-produk-untuk-kulit-sehat/)***, banyak mengintegrasikan bahan-bahan alami seperti kunyit untuk menghasilkan kulit yang lebih cerah dan sehat. Artikel ini akan mengulas secara mendalam [manfaat kunyit untuk kecantikan kulit](https://pediaku.id/manfaat-kunyit-untuk-kecantikan/) beserta cara-cara praktis untuk mengaplikasikannya dalam perawatan harian.
 
 ## Kandungan Aktif Kunyit dan Mekanisme Kerjanya
 
@@ -20,7 +20,7 @@ Kunyit mengandung senyawa utama **kurkumin** yang memiliki sifat antioksidan, an
 
 - **Antioksidan:** Melawan radikal bebas yang dapat merusak sel-sel kulit, sehingga membantu mencegah penuaan dini.
 - **Anti-Inflamasi:** Mengurangi peradangan yang sering menjadi penyebab utama jerawat dan iritasi kulit.
-- **Antibakteri:** Membantu membersihkan kuman penyebab infeksi sehingga kulit tetap sehat dan bebas jerawat.
+- **Antibakteri:** Membantu membersihkan kuman penyebab infeksi sehingga kulit tetap [sehat](https://pediaku.id/cemilan-sehat-untuk-diet/) dan bebas jerawat.
 - **Mencerahkan Kulit:** Dengan menghambat produksi melanin berlebih, kunyit dapat membantu meratakan warna kulit dan mengurangi noda serta bekas jerawat.
 
 ## Manfaat Utama Kunyit untuk Kecantikan Kulit
@@ -75,4 +75,6 @@ Selain penggunaan topikal, mengonsumsi kunyit juga memberikan manfaat dari dalam
 ## Kesimpulan
 
 Kunyit adalah salah satu rahasia alami yang telah terbukti memberikan berbagai manfaat dalam perawatan kulit. Dengan kemampuan untuk mencerahkan, mengurangi peradangan, dan melawan tanda-tanda penuaan, kunyit dapat menjadi tambahan yang efektif dalam rutinitas kecantikan sehari-hari. Pemanfaatan bahan alami ini tidak hanya mendekatkan kita pada tradisi perawatan kulit yang telah teruji, tetapi juga menawarkan solusi yang aman dan mudah diterapkan.
+
+Selain itu, kunyit juga merupakan salah satu *[superfood khas indonesia](https://pediaku.id/makanan-superfood-khas-indonesia/)* yang sudah terbukti khasiatnya untuk kesehatan.
 

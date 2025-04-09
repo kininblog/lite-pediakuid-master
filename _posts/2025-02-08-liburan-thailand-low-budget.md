@@ -45,7 +45,7 @@ Krabi adalah alternatif lebih murah dibandingkan Phuket, dengan pantai yang tak 
 
 **Daya Tarik: **Pantai Railay, Pulau Phi Phi, dan Emerald Pool.
 
-**Biaya:** Hostel mulai 200-400 THB per malam, makanan street food sekitar 50-100 THB per porsi.
+**Biaya:** Hostel mulai 200-400 THB per malam, ma[kanan halal thailand](https://pediaku.id/makanan-thailand-halal/) street food sekitar 50-100 THB per porsi.
 
 **Tips Hemat: **Gunakan perahu umum (longtail boat) untuk perjalanan antar pulau daripada menyewa speedboat pribadi.
 
@@ -69,7 +69,7 @@ Bangkok mungkin terdengar mahal, tetapi ada banyak aktivitas gratis atau murah y
 
 **Tips Hemat:** Gunakan transportasi umum seperti BTS Skytrain atau MRT untuk menghemat biaya perjalanan.
 
-##Tips Traveling Murah ke Thailand
+## Tips Traveling Murah ke Thailand
 
 Selain memilih destinasi yang tepat, berikut beberapa strategi untuk menghemat lebih banyak uang selama liburan:
 

@@ -43,7 +43,7 @@ Sirkuit Interlagos telah menyuguhkan banyak momen dramatis dalam sejarah F1, ant
 Selain desain trek yang menantang, ada beberapa faktor eksternal yang turut berkontribusi pada keunikan balapan di Interlagos:
 - **Perubahan Cuaca yang Cepat:** Lokasi sirkuit ini terkenal dengan cuacanya yang berubah dengan cepat—mulai dari gerimis ringan hingga hujan deras—menambah tantangan bagi para pembalap.
 - **Arah Balapan:** Karena sirkuit ini berlawanan arah jarum jam, gaya sentrifugal membuat pembalap harus beradaptasi dengan tekanan yang berbeda, terutama karena mereka cenderung terdorong ke kanan.
-- **Jalur Pit yang Panjang:** Jalur pit yang melintasi tiga tikungan pertama dengan desain yang "tidak rapi" memberikan sentuhan klasik yang unik dan mempengaruhi strategi pit stop.
+- **Jalur Pit yang Panjang:** Jalur pit yang melintasi tiga tikungan pertama dengan [desain](https://pediaku.id/desain-gedung-tk-minimanlis/) yang "tidak rapi" memberikan sentuhan klasik yang unik dan mempengaruhi strategi pit stop.
 
 ## Kesimpulan
 

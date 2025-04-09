@@ -45,7 +45,7 @@ Mengunjungi toko permen spesialis memiliki banyak keuntungan dibandingkan membel
 <ol>
 <li>Jaminan Rasa dan Kualitas yang Lebih BaikToko permen premium biasanya menjual produk yang lebih berkualitas dengan bahan pilihan terbaik.</li>
 
-<li>Produk Lebih Fresh Dibanding Permen Kemasan BiasaPermen handmade dan premium cenderung lebih segar karena dibuat dalam jumlah terbatas.</li>
+<li>Produk Lebih Fresh Dibanding Permen Kemasan Biasa, Permen handmade dan premium cenderung lebih segar karena dibuat dalam jumlah terbatas.</li>
 
 <li>Mencoba Rasa Unik yang Tidak Tersedia di SupermarketToko permen spesialis menawarkan varian rasa yang tidak dapat ditemukan di toko swalayan atau minimarket umum.</li></ol>
 

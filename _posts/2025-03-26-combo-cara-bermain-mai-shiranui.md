@@ -55,4 +55,4 @@ Sedangkan beberapa tipe hero yang bisa nge-counter Mai adalah hero dengan CC yan
 Mudah kok ngecounter Mai, asal kamu paham skill nya dan bisa jaga posisi, dan ingat berhati-hati dengan semak-semak.
 
 ## Kesimpulan
-Nah, itu dia beberapa tips bermain mai shiranui biar jago dan jadi preman midlane yang ditakuti oleh musuh. ingat untuk selalu menjaga posisi dan memperhatikan Map kamu. Baca juga rekomendasi *[game offline grafik hd](https://pediaku.id/game-ultra-realistis-offline/)*
+Nah, itu dia beberapa tips bermain mai shiranui biar jago dan jadi preman midlane yang ditakuti oleh musuh. ingat untuk selalu menjaga posisi dan memperhatikan Map kamu serta pandai *[membaca](https://pediaku.id/alasan-orang-indonesia-malas-membaca/)* pergerakan lawan . Baca juga rekomendasi *[game offline grafik hd](https://pediaku.id/game-ultra-realistis-offline/)*

@@ -120,4 +120,6 @@ Managed hosting adalah layanan di mana penyedia hosting menangani pengelolaan se
 
 Memilih web hosting untuk bisnis kecil dan menengah adalah langkah penting yang membutuhkan pertimbangan matang. Dengan memahami **jenis hosting** dan **faktor-faktor yang relevan**, kamu dapat membuat keputusan yang tepat untuk mendukung pertumbuhan bisnismu.
 
-Jangan lupa untuk memilih **Solusi Terbaik untuk Website dengan Performa Stabil** agar bisnismu tetap kompetitif di dunia digital!
+Jangan lupa untuk memilih **Solusi Terbaik untuk Website dengan Performa Stabil** agar bisnismu tetap kompetitif di dunia digital dan dapat [meningkatkan ekonimi](https://pediaku.id/ekonomi-indonesia-lebih-kuat-dari-timor-leste/)
+
+Solusi lain untuk usaha kecil kebawah yang baru memulai, juga bisa [membuat blog jekyll](https://kinin.web.id/membuat-blog-jekyll/) dan hosting gratis di github.

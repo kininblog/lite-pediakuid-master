@@ -13,7 +13,7 @@ Memang banyak banget kejadian-kejadia "gokil" yang terjadi di negara ter-"CINTA"
 
 ![indonesia gelap diliput media luar](/assets/images/indonesiagelap.webp)
 
-Bagi kalian yang belum tau, atau kurang paham konteksnya, jadi tagar #IndonesiaGelap muncul karena kekecewaan terhadap 100 hari kinerja pemerintahan kita ya, yang mana banyak kebijakannya yang dianggap kurang bagus, mulai dari pemotongan tunjangan dosen, sampai masalah Gas LPG 3 KG. Sekarang muncul lagi hastag baru yakni kabur aja dulu.
+Bagi kalian yang belum tau, atau kurang paham konteksnya, jadi tagar #IndonesiaGelap muncul karena kekecewaan terhadap 100 hari kinerja pemerintahan kita ya, yang mana banyak kebijakannya yang dianggap kurang bagus, mulai dari pemotongan tunjangan dosen, sampai masalah Gas LPG 3 KG. Sekarang muncul lagi hastag baru yakni [kabur aja dulu](https://pediaku.id/fenomena-kabur-aja-dulu/).
 
 [Trendingnya Hashtag #KaburAjaDulu](http://www.houstontimespost.com/informasi/fakta-dibalik-trendingnya-hashtag-kaburajadulu-di-indonesia/) bermula dari media sosial X yang kemudian diblow up diberbagai platform lain seperti tiktok, facebook, sampai youtube. Jadi gak heran sih kalau akun kalian beberapa minggu terakhir diserang dengan postingan seperti ini.
 

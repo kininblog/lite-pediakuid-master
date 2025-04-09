@@ -9,7 +9,7 @@ description: Temukan rekomendasi 5 cemilan sehat yang cocok untuk menjalani prog
 toc: true
 image: assets/images/cemilan.webp
 ---
-Diet tidak selalu identik dengan menu yang hambar dan monoton, lho! Sebagai pencinta kuliner sekaligus foodblogger, aku percaya bahwa menjaga pola makan sehat sambil tetap menikmati cita rasa lezat adalah kunci utama. Bersama ***[https://sukangemil.id/](https://sukangemil.id/)*** , kita akan bahas secara mendalam lima cemilan sehat yang tidak hanya membantu kamu mengontrol asupan kalori, tetapi juga memenuhi kebutuhan nutrisi serta memberikan kepuasan rasa yang luar biasa. Yuk, simak selengkapnya!
+Diet tidak selalu identik dengan menu yang hambar dan monoton, lho! Sebagai pencinta kuliner sekaligus foodblogger, aku percaya bahwa menjaga pola makan sehat sambil tetap menikmati cita rasa lezat adalah kunci utama. Bersama ***[https://sukangemil.id/](https://sukangemil.id/)*** , kita akan bahas secara mendalam lima [cemilan sehat](https://pediaku.id/cemilan-sehat-untuk-diet/) yang tidak hanya membantu kamu mengontrol asupan kalori, tetapi juga memenuhi kebutuhan nutrisi serta memberikan kepuasan rasa yang luar biasa. Yuk, simak selengkapnya!
 
 ## 1. Greek Yogurt dengan Buah Segar dan Granola
 
@@ -35,7 +35,7 @@ Selain itu, salad buah adalah cemilan yang serbaguna. Kamu bisa bereksperimen de
 
 ## 3. Edamame Rebus
 
-Edamame, atau kacang kedelai rebus, semakin populer sebagai cemilan sehat di berbagai belahan dunia, terutama di Asia. Kaya akan protein nabati, serat, dan berbagai mikronutrien, edamame adalah salah satu cemilan yang tepat bagi kamu yang ingin menyeimbangkan asupan gizi di tengah diet.
+Edamame, atau kacang kedelai rebus, semakin populer sebagai [cemilan sehat](https://pediaku.id/makanan-superfood-khas-indonesia/) di berbagai belahan dunia, terutama di Asia. Kaya akan protein nabati, serat, dan berbagai mikronutrien, edamame adalah salah satu cemilan yang tepat bagi kamu yang ingin menyeimbangkan asupan gizi di tengah diet.
 
 **Mengapa Edamame Menjadi Pilihan Tepat?**  
 - **Sumber Protein Nabati:** Membantu regenerasi dan perbaikan sel dalam tubuh.
@@ -46,7 +46,7 @@ Edamame tidak hanya enak disantap dalam bentuk rebus, tetapi juga bisa menjadi t
 
 ## 4. Cemilan Terenak dari Asia: Kacang Hijau Rebus
 
-Di tengah rekomendasi cemilan sehat yang beragam, ada satu pilihan menarik yang patut kamu coba: **[Cemilan Terenak dari Asia](https://sukangemil.id/informasi/cemilan-terenak-dari-asia-cita-rasa-yang-membuat-ketagihan/)** – kacang hijau rebus. Ya, kamu tidak salah dengar. Kacang hijau rebus tidak hanya populer sebagai bahan dalam aneka minuman segar, tapi juga bisa dimanfaatkan sebagai cemilan sehat. 
+Di tengah rekomendasi cemilan sehat yang beragam, ada satu pilihan menarik yang patut kamu coba: **[Cemilan Terenak dari Asia](https://sukangemil.id/informasi/cemilan-terenak-dari-asia-cita-rasa-yang-membuat-ketagihan/)** – kacang hijau rebus. Ya, kamu tidak salah dengar. Kacang hijau rebus tidak hanya populer sebagai bahan dalam aneka minuman segar, tapi juga bisa dimanfaatkan sebagai cemilan sehat. Ini menjadi salah satu [khas padang](https://pediaku.id/kue-khas-padang-dan-resepnya/) yang menyehatkan.
 
 **Manfaat dan Kelebihan Kacang Hijau Rebus:**  
 - **Rendah Lemak:** Seperti halnya snack sehat lainnya, kacang hijau menghadirkan solusi rendah kalori namun kaya akan nutrisi.

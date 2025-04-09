@@ -12,7 +12,7 @@ image: assets/images/liburan-keluarnegeri.webp
 
 Pergi ke luar negeri untuk pertama kalinya bisa jadi pengalaman yang mendebarkan sekaligus menegangkan. Saya masih ingat saat pertama kali menginjakkan kaki di negara asing, rasanya campur aduk antara antusias dan khawatir. Banyak pertanyaan muncul di kepala: Bagaimana menghemat biaya? Apa yang harus dipersiapkan? Bagaimana mengatasi kendala bahasa dan budaya? simak ulasan berikut untuk ***[info lebih lanjut](https://jelajahdaratan.id/)***
 
-Untungnya, setelah beberapa kali traveling, saya menemukan berbagai cara untuk menghemat biaya perjalanan tanpa mengurangi pengalaman seru. Nah, buat kamu yang baru pertama kali liburan ke luar negeri, artikel ini akan membantumu menghindari kesalahan umum dan merencanakan perjalanan dengan lebih cerdas.
+Untungnya, setelah beberapa kali [traveling](https://pediaku.id/), saya menemukan berbagai cara untuk menghemat biaya perjalanan tanpa mengurangi pengalaman seru. Nah, buat kamu yang baru pertama kali [liburan ke luar negeri](https://pediaku.id/tips-liburan-ke-luar-negeri/), artikel ini akan membantumu menghindari kesalahan umum dan merencanakan perjalanan dengan lebih cerdas.
 
 Selain itu, jika kamu ingin menikmati suasana perkotaan yang penuh budaya dan kuliner khas, jangan lupa cek **[Wisata Kota-Kota Terbaik di Asia Tenggara](https://jelajahdaratan.id/rekomendasi/wisata-kota-kota-terbaik-di-asia-tenggara-yang-wajib-dikunjungi/)** untuk inspirasi destinasi berikutnya!
 
@@ -62,7 +62,7 @@ Transportasi bisa menghabiskan banyak uang jika tidak direncanakan dengan baik. 
 
 ## 6. Cari Makanan Lokal yang Murah dan Autentik
 
-Makan di restoran turis bisa sangat mahal. Cara hemat untuk menikmati kuliner lokal:
+Makan di restoran turis bisa sangat mahal. Cara hemat untuk menikmati [kuliner lokal](https://pediaku.id/kue-khas-padang-dan-resepnya/):
 
 - **Cari street food atau warung lokal** yang sering dikunjungi penduduk setempat.
 - **Kunjungi pasar tradisional** untuk menikmati makanan segar dengan harga murah.
@@ -70,7 +70,7 @@ Makan di restoran turis bisa sangat mahal. Cara hemat untuk menikmati kuliner lo
 
 ## 7. Manfaatkan Diskon dan Tiket Wisata Gratis
 
-Banyak destinasi wisata menawarkan diskon atau bahkan tiket masuk gratis. Beberapa tipsnya:
+Banyak [destinasi wisata](https://pediaku.id/rafting-lubuk-alung-pariaman/) menawarkan diskon atau bahkan tiket masuk gratis. Beberapa tipsnya:
 
 - **Cari informasi promo atau diskon di situs resmi destinasi wisata**.
 - **Gunakan kartu pelajar atau kartu turis** untuk mendapatkan harga lebih murah.

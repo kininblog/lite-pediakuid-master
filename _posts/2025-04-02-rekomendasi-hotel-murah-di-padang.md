@@ -9,7 +9,7 @@ description: Temukan 5 rekomendasi hotel dan penginapan murah di Padang yang men
 toc: true
 image: assets/images/hotel-murah.webp
 ---
-Padang, kota yang kaya akan budaya, kuliner, dan keindahan alam, selalu punya pesona tersendiri. Saya masih ingat betul ketika pertama kali menginjakkan kaki di Padang, saya langsung jatuh cinta dengan suasana kota yang santai namun penuh kehidupan. Tak hanya karena kelezatan rendangnya atau pemandangan pantai yang memesona, tetapi juga karena pilihan akomodasi yang ramah di kantong. Di artikel kali ini, bersama ***[https://nuansahotel.id](https://nuansahotel.id)*** saya akan berbagi pengalaman pribadi dan rekomendasi 5 hotel & penginapan murah di Padang yang bisa jadi pilihan pas untuk liburan hemat namun tetap nyaman. Yuk, simak ceritanya!
+Padang, kota yang kaya akan budaya, kuliner, dan keindahan alam, selalu punya pesona tersendiri. Saya masih ingat betul ketika pertama kali menginjakkan kaki di Padang, saya langsung jatuh cinta dengan suasana kota yang santai namun penuh kehidupan. Tak hanya karena kelezatan rendangnya atau pemandangan pantai yang memesona, tetapi juga karena pilihan akomodasi yang ramah di kantong. Di artikel kali ini, bersama ***[https://nuansahotel.id](https://nuansahotel.id)*** saya akan berbagi pengalaman pribadi dan rekomendasi 5 [hotel](https://pediaku.id/hotel-terbaik-untuk-meeting-di-padang/) & [penginapan murah di Padang](https://pediaku.id/rekomendasi-hotel-murah-di-padang/) yang bisa jadi pilihan pas untuk liburan hemat namun tetap nyaman. Yuk, simak ceritanya!
 
 ## 1. OYO 433 Nelvi Guest House Syariah
 
@@ -23,7 +23,7 @@ Setiap kamar di guest house ini sudah dilengkapi dengan kasur yang empuk, TV, AC
 
 Selanjutnya, ada **Hotel Hangtuah**. Kalau kamu pengin nuansa vintage tapi tetap ingin merasakan kenyamanan modern, Hotel Hangtuah bisa jadi pilihan yang tepat. Hotel ini punya konsep yang unik dan suasananya yang sejuk karena banyak ditanami tanaman hijau. 
 
-Kamar di Hotel Hangtuah sudah dilengkapi dengan AC, tempat tidur yang nyaman, serta perlengkapan mandi yang memadai. Lokasinya yang deket dengan Plaza Andalas membuat kamu mudah untuk beraktivitas, mulai dari berbelanja hingga mencicipi kuliner khas Padang. Harga per malam di sini berkisar sekitar Rp207 ribu, yang menurut saya sebanding dengan kualitas yang diberikan.
+Kamar di Hotel Hangtuah sudah dilengkapi dengan AC, tempat tidur yang nyaman, serta perlengkapan mandi yang memadai. Lokasinya yang deket dengan Plaza Andalas membuat kamu mudah untuk beraktivitas, mulai dari berbelanja hingga mencicipi [kuliner khas Padang](https://pediaku.id/kue-khas-padang-dan-resepnya/). Harga per malam di sini berkisar sekitar Rp207 ribu, yang menurut saya sebanding dengan kualitas yang diberikan.
 
 Saya pribadi merasa nyaman dengan desain interior yang klasik dan pelayanan yang hangat. Sambil menikmati secangkir kopi, saya sering menghabiskan waktu di lobi hotel yang terasa seperti ruang ngobrol bersama teman lama.
 
@@ -56,7 +56,7 @@ RedDoorz sendiri adalah brand yang sudah cukup dikenal dan dipercaya banyak trav
 
 ## Tips Liburan Hemat di Padang
 
-Selain memilih penginapan yang ramah di kantong, ada beberapa tips yang bisa kamu coba agar liburan di Padang makin hemat dan menyenangkan:
+Selain memilih [penginapan yang ramah](https://pediaku.id/penginapan-ramah-hewan-di-padang/) di kantong, ada beberapa tips yang bisa kamu coba agar liburan di Padang makin hemat dan menyenangkan:
 
 - **Pesan jauh-jauh hari:** Ketersediaan kamar di hotel murah ini cepat penuh, apalagi saat musim liburan. Jadi, pastikan kamu melakukan reservasi terlebih dahulu.
 - **Manfaatkan promo dan diskon:** Banyak platform booking online menawarkan promo khusus untuk hotel-hotel di Padang. Selalu cek aplikasi seperti Traveloka, Agoda, atau OYO untuk mendapatkan harga terbaik.

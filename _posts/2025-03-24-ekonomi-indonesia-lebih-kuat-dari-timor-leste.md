@@ -12,7 +12,7 @@ image: assets/images/ihsg.webp
 
 **[Pediaku.id](https://pediaku.id)** - Mungkin sebagian besar rakyat Indonesia sudah mengetahui tentang berita IHSG yang merosot beberapa minggu lalu. Berita yang cukup menghebohkan, bagaimana tidak hal ini mengindikasikan kurangnya kepercayaan investor luar untuk berinvestasi di Indonesia. Saya melakukan ***[cek situs](https://suaraterkini.id/)*** di beberapa situs berita untuk mengumpulkan informasi ini.
 
-Bukan haya itu, yang membuat berita ini semakin menarik adalah tanggapan dari Kementerian Dalam Negeri (kemendagri) tentang masalah ini yang dengan cerdasnya membandingkan ekonimi Indonesia dengan Timor Leste. Dikutip dari Bisnis com, ia menyebut pertumbuhan ekonomi Indonesia masih jauh lebih hebat daripada Timor Leste di negara kawasan Asia. 
+Bukan haya itu, yang membuat berita ini semakin menarik adalah tanggapan dari Kementerian Dalam Negeri (kemendagri) tentang masalah ini yang dengan cerdasnya membandingkan ekonimi Indonesia dengan Timor Leste. Dikutip dari Bisnis com, ia menyebut pertumbuhan [ekonomi Indonesia masih jauh lebih hebat daripada Timor Leste](https://pediaku.id/ekonomi-indonesia-lebih-kuat-dari-timor-leste/) di negara kawasan Asia. 
 
 > Terlepas dari menurunnya IHSG, menurut tito pertumbuhan ekonomi Indonesia masih di atas 5% atau tepatnya 5,02% secara tahunan pada kuartal IV/2024.
 

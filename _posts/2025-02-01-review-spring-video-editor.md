@@ -23,20 +23,18 @@ Untuk memulai proyek baru, pengguna cukup memilih klip video, lalu masuk ke anta
 ## Fitur-Fitur Unggulan
 
 Spring menyediakan berbagai fitur esensial seperti:
-<ul>
-<li>Overlayuntuk menambahkan foto atau gambar di atas video.</li>
+- Overla yuntuk menambahkan foto [hasil fotografi](https://pediaku.id/kesalahan-umum-dalam-fotografi/) atau gambar di atas video. 
 
-<li>Audio untuk menambahkan musik, efek suara, atau merekam voice-over langsung di aplikasi.</li>
+- Audio untuk menambahkan musik, efek suara, atau merekam voice-over langsung di aplikasi. 
 
-<li>Teks dan Auto Captions, yang memungkinkan pengguna menambahkan teks dengan efek animasi dan menggunakan fitur transkripsi otomatis.</li>
+- Teks dan Auto Captions, yang memungkinkan pengguna menambahkan teks dengan efek animasi dan menggunakan fitur transkripsi otomatis. 
 
-<li>Efek AI dan Stiker, seperti transisi unik, efek getaran kamera, dan berbagai elemen grafis yang dapat diunduh langsung dari Asset Store.</li>
+- Efek AI dan Stiker, seperti transisi unik, efek getaran kamera, dan berbagai elemen grafis yang dapat diunduh langsung dari Asset Store. 
 
-<li>Magic Remover, yang dapat menghapus latar belakang video secara gratis tanpa harus menggunakan aplikasi pihak ketiga.</li>
+- Magic Remover, yang dapat menghapus latar belakang video secara gratis tanpa harus menggunakan aplikasi pihak ketiga. 
 
-<li>Filter dan Penyesuaian Warna, yang memungkinkan pengguna mengatur tampilan visual video dengan mudah.</li>
+- Filter dan Penyesuaian Warna, yang memungkinkan pengguna mengatur tampilan visual video dengan mudah. 
 
-</ul>
 
 Dengan adanya fitur-fitur tersebut bisa membantu Anda mempermudah dalam mengedit video. Dan yang paling penting adalah, bagi pengguna gratis sekalipun tidak ada watermark sehingga video yang dihasilkan terlihat lebih profesional. Bagi Anda yang mau mempelajari tentang aplikasi editing video dan bagaimana cara mengedit video bisa belajar di www.chrisallenonline.com, di sini Anda akan mempelajari banyak hal menarik tentang dunia editing. 
 

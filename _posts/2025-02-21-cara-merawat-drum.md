@@ -9,7 +9,7 @@ toc : true
 description: "Drum bukan sekadar instrumen musik, tetapi juga investasi berharga bagi para drummer. Merawat drum dengan baik tidak hanya menjaga kualitas suaranya, tetapi juga memperpanjang usia pemakaian. Sayangnya, banyak pemain drum—baik pemula maupun profesional—yang masih abai terhadap perawatan rutin."
 ---
 
-Drum bukan sekadar instrumen musik, tetapi juga investasi berharga bagi para drummer. Merawat drum dengan baik tidak hanya menjaga kualitas suaranya, tetapi juga memperpanjang usia pemakaian. Sayangnya, banyak pemain drum—baik pemula maupun profesional—yang masih abai terhadap perawatan rutin. Padahal, dengan teknik perawatan yang tepat, drum bisa bertahan puluhan tahun! setelah melakukan riset dan [cek situs](http://www.robinsdrumworks.com/) tentang drum, Pediaku ID akan merangkum cara merawat drum di artikel ini
+Drum bukan sekadar instrumen [musik](https://pediaku.id/tempat-nonton-opera-di-indonesia/), tetapi juga investasi berharga bagi para drummer. Merawat drum dengan baik tidak hanya menjaga kualitas suaranya, tetapi juga memperpanjang usia pemakaian. Sayangnya, banyak pemain drum—baik pemula maupun profesional—yang masih abai terhadap perawatan rutin. Padahal, dengan teknik perawatan yang tepat, drum bisa bertahan puluhan tahun! setelah melakukan riset dan [cek situs](http://www.robinsdrumworks.com/) tentang drum, Pediaku ID akan merangkum [cara merawat drum](https://pediaku.id/cara-merawat-drum/) di artikel ini
 
 
 ## Pendahuluan: Mengapa Merawat Drum Itu Penting?

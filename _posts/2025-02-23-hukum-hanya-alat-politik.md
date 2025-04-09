@@ -9,7 +9,7 @@ toc : true
 description: "Di era modern ini, banyak pihak mulai mempertanyakan apakah hukum masih berfungsi sebagai instrumen keadilan atau justru telah berubah menjadi alat politik yang bisa dipermainkan. Dalam pembahasan ini, kita akan mengeksplorasi fenomena di mana hukum sebagai alat politik digunakan untuk mencapai agenda tertentu dan bagaimana keadilan yang dijual murah menjadi refleksi dari penyalahgunaan kekuasaan"
 ---
 
-Di era modern ini, banyak pihak mulai mempertanyakan apakah hukum masih berfungsi sebagai instrumen keadilan atau justru telah berubah menjadi alat politik yang bisa dipermainkan. Dalam pembahasan ini, kita akan mengeksplorasi fenomena di mana **hukum sebagai alat politik** digunakan untuk mencapai agenda tertentu dan bagaimana **keadilan yang dijual murah** menjadi refleksi dari penyalahgunaan kekuasaan. Di paragraf pertama ini, kami juga menyisipkan [Peran Partai Keadilan](http://www.justicepartyct.org/2025/02/21/peran-partai-keadilan-dalam-mempromosikan-keadilan-sosial-di-berbagai-negara/) sebagai salah satu contoh dinamika politik yang berperan dalam membentuk opini dan kebijakan hukum.
+Di era modern ini, banyak pihak mulai mempertanyakan apakah hukum masih berfungsi sebagai instrumen keadilan atau justru telah berubah menjadi alat politik yang bisa dipermainkan. Dalam pembahasan ini, kita akan mengeksplorasi fenomena di mana **[hukum sebagai alat politik](https://pediaku.id/hukum-hanya-alat-politik/)** digunakan untuk mencapai agenda tertentu dan bagaimana **keadilan yang dijual murah** menjadi refleksi dari penyalahgunaan kekuasaan. Di paragraf pertama ini, kami juga menyisipkan [Peran Partai Keadilan](http://www.justicepartyct.org/2025/02/21/peran-partai-keadilan-dalam-mempromosikan-keadilan-sosial-di-berbagai-negara/) sebagai salah satu contoh dinamika politik yang berperan dalam membentuk opini dan kebijakan hukum.
 
 ## Pendahuluan
 
@@ -54,13 +54,13 @@ Media memiliki peran ganda dalam mengungkap atau menutupi penyalahgunaan hukum. 
 Ketika hukum tidak lagi diperlakukan sebagai alat untuk menegakkan keadilan, dampak sosial dan ekonomi pun dirasakan secara luas:
 - Masyarakat menjadi sinis dan kehilangan kepercayaan terhadap sistem peradilan.
 - Terjadinya polarisasi sosial yang dapat memicu konflik horizontal.
-- Ketidakstabilan ekonomi akibat berkurangnya investasi dan kepercayaan publik.
+- [Ketidakstabilan ekonomi](https://pediaku.id/ekonomi-indonesia-lebih-kuat-dari-timor-leste/) akibat berkurangnya investasi dan kepercayaan publik.
 
 ## Analisis Perspektif: Opini Pribadi dan Data Empiris
 
 Secara pribadi, saya melihat bahwa fenomena di mana hukum hanya digunakan sebagai alat politik merupakan cermin dari krisis moral dalam sistem pemerintahan. Data empiris dari berbagai studi dan laporan menunjukkan tren yang sama: semakin kuat pengaruh politik, semakin rentan pula sistem hukum terhadap penyalahgunaan.
 
-Dalam konteks ini, **keadilan yang dijual murah** bukan hanya sekadar retorika, melainkan kenyataan pahit yang harus dihadapi oleh masyarakat modern. Adanya kasus-kasus di mana proses peradilan diwarnai oleh kepentingan politik menandakan perlunya reformasi menyeluruh, baik dalam struktur peradilan maupun dalam tata kelola politik.
+Dalam konteks ini, **keadilan yang dijual murah** bukan hanya sekadar retorika, melainkan kenyataan pahit yang harus dihadapi oleh masyarakat modern. Adanya kasus-kasus di mana proses peradilan diwarnai oleh kepentingan politik menandakan perlunya reformasi menyeluruh, baik dalam struktur peradilan maupun dalam [tata kelola politik](https://pediaku.id/istilah-dalam-politik/).
 
 ## Peran Partai Politik dan Partai Keadilan
 

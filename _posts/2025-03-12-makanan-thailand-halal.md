@@ -12,7 +12,7 @@ image: assets/images/tom-yum.webp
 
 Dari ***[kulinerlezat.id](https://kulinerlezat.id)*** Thailand dikenal dengan kekayaan kulinernya yang luar biasa, memadukan rasa asam, pedas, manis, dan gurih dalam setiap hidangannya. Keunikan resep tradisional dan penggunaan rempah-rempah membuat setiap hidangan selalu menawarkan pengalaman rasa yang berbeda dan menarik.
 
-Bagi Anda yang gemar mengeksplorasi ***[Makanan Luar Negeri](https://kulinerlezat.id/eksplorasi/makanan-khas-dari-berbagai-negara-yang-wajib-dicoba/)*** dengan standar kehalalan, artikel ini hadir untuk mengupas secara mendalam 5 makanan khas Thailand yang tidak hanya menggugah selera, tetapi juga dipastikan halal. Dengan pembahasan mengenai sejarah, bahan-bahan utama, teknik memasak, hingga tips penyajian, Anda akan mendapatkan pemahaman lengkap mengenai keunikan kuliner Thailand.
+Bagi Anda yang gemar mengeksplorasi ***[Makanan Luar Negeri](https://kulinerlezat.id/eksplorasi/makanan-khas-dari-berbagai-negara-yang-wajib-dicoba/)*** dengan standar kehalalan, artikel ini hadir untuk mengupas secara mendalam [5 makanan khas Thailand](https://pediaku.id/makanan-thailand-halal/) yang tidak hanya menggugah selera, tetapi juga dipastikan halal. Dengan pembahasan mengenai sejarah, bahan-bahan utama, teknik memasak, hingga tips penyajian, Anda akan mendapatkan pemahaman lengkap mengenai keunikan kuliner Thailand.
 
 ## 1. Tom Yum Halal
 
@@ -21,7 +21,7 @@ Tom Yum adalah sup legendaris Thailand yang telah ada sejak lama. Meskipun aslin
 
 ### Bahan Utama dan Teknik Memasak
 - **Bahan Utama:** Kaldu ayam/seafood, serai, daun jeruk purut, lengkuas, cabai, dan perasan jeruk nipis.
-- **Teknik:** Bahan-bahan direbus bersama untuk mengeluarkan aroma segar dan rasa asam-pedas yang khas. Pastikan semua bahan, terutama protein, telah disertifikasi halal.
+- **Teknik:** Bahan-bahan direbus bersama untuk mengeluarkan aroma segar dan rasa asam-pedas yang [khas](https://pediaku.id/kue-khas-padang-dan-resepnya/). Pastikan semua bahan, terutama protein, telah disertifikasi halal.
   
 ### Tips Penyajian
 Untuk mendapatkan cita rasa autentik, sajikan Tom Yum dalam keadaan hangat dengan tambahan irisan cabai segar dan perasan jeruk nipis di atasnya.
@@ -54,7 +54,7 @@ Sajikan Green Curry dengan nasi putih hangat agar rasa kuah santan dan bumbu mer
 ## 4. Som Tum Halal
 
 ### Sejarah dan Adaptasi
-Som Tum, atau salad pepaya muda, awalnya populer di berbagai negara Asia Tenggara. Untuk versi halal, bahan seperti ikan teri yang biasa digunakan bisa diganti dengan alternatif yang sesuai sehingga semua kalangan dapat menikmatinya.
+Som Tum, atau salad pepaya muda, awalnya populer di berbagai negara Asia Tenggara. Untuk versi halal, bahan seperti ikan teri yang biasa digunakan bisa diganti dengan alternatif yang sesuai sehingga semua kalangan dapat menikmatinya. 
 
 ### Bahan Utama dan Teknik Memasak
 - **Bahan Utama:** Pepaya muda, tomat, kacang tanah, cabai, dan bumbu asam manis.
@@ -77,7 +77,7 @@ Untuk hasil terbaik, sajikan Mango Sticky Rice dalam keadaan hangat atau suhu ru
 
 ## Kesimpulan
 
-Kuliner Thailand menawarkan ragam cita rasa yang luar biasa, menggabungkan tradisi dan inovasi dalam setiap hidangannya. Dari Tom Yum yang pedas hingga Mango Sticky Rice yang manis, masing-masing makanan khas Thailand yang halal ini tidak hanya memenuhi standar kehalalan, tetapi juga menghadirkan keunikan dan kekayaan rasa yang memukau. Dengan memahami sejarah, bahan, dan teknik memasak di balik setiap resep, Anda dapat lebih menghargai kekayaan kuliner Thailand dan terus bereksperimen di dapur dengan versi halal yang autentik. Selamat mencoba dan menikmati perjalanan rasa ke negeri gajah putih!
+Kuliner Thailand menawarkan ragam cita rasa yang luar biasa, menggabungkan tradisi dan inovasi dalam setiap hidangannya. Dari Tom Yum yang pedas hingga Mango Sticky Rice yang manis, masing-masing makanan khas Thailand yang halal ini tidak hanya memenuhi standar kehalalan, tetapi juga menghadirkan keunikan dan kekayaan rasa yang memukau. Bagi Kamu yang sedang [liburan di thailand](https://pediaku.id/liburan-thailand-low-budget/) wajib mencoba makanan ini. Dengan memahami sejarah, bahan, dan teknik memasak di balik setiap resep, Anda dapat lebih menghargai kekayaan kuliner Thailand dan terus bereksperimen di dapur dengan versi halal yang autentik. Selamat mencoba dan menikmati perjalanan rasa ke negeri gajah putih!
 
 
 
