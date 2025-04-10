@@ -2,8 +2,8 @@
 layout: post
 title:  "Harga dan Spesifikasi Vivo Y29 Indonesia - Review Lengkap"
 author: nanda
-category: otomotif
-tags: otomotif, daihatsu
+category: teknologi
+tags: smartphone
 keywords: vivo, vivo y29, review vivo y29, harga vivo y29, spesifikasi vivo y29, kamera vivo y29]
 description: Artikel review lengkap mengenai Harga dan Spesifikasi Vivo Y29 Indonesia, membahas desain, performa, kamera, serta fitur unggulan smartphone kelas menengah ini
 toc: true
