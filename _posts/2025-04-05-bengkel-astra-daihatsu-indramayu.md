@@ -5,7 +5,7 @@ author: nanda
 category: otomotif
 tags: otomotif, daihatsu
 keywords: bengkel daihatsu indramayu, astra daihatsu indramayu, bengkel daihatsu, bengkel astra daihatsu, outlet daihatsu indramayu, gatot subroto daihatsu bengkel
-description: engkel Astra Daihatsu Indramayu kini telah beroperasi sebagai outlet VSP! Nikmati layanan servis resmi dan spare part Daihatsu tanpa perlu ke luar kota. Kunjungi kami di Jl. Gatot Subroto, Indramayu.
+description: bengkel Astra Daihatsu Indramayu kini telah beroperasi sebagai outlet VSP! Nikmati layanan servis resmi dan spare part Daihatsu tanpa perlu ke luar kota. Kunjungi kami di Jl. Gatot Subroto, Indramayu.
 toc: true
 image: assets/images/bengkel-astra-daihatsu.png
 ---
