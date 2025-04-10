@@ -7,7 +7,7 @@ tags: kuliner
 keywords: kuliner dunia, menu makanan terbanyak, negara kuliner, ragam makanan, masakan internasional
 description: Artikel mendalam yang mengupas ragam kuliner dari berbagai negara di dunia, menyoroti keunikan dan kekayaan menu makanan yang ditawarkan oleh setiap negara.
 toc: true
-image: assets/img/menu-makanan.png
+image: assets/images/menu-makanan.png
 ---
 Di dunia yang semakin terhubung dan global, fenomena keragaman kuliner menjadi magnet tersendiri bagi para pecinta makanan. Setiap negara memiliki cerita, sejarah, dan budaya yang tertuang dalam setiap hidangannya. Bersama [rajamangan.id](https://rajamangan.id/) kita akan mengupas secara mendalam **daftar negara dengan menu makanan terbanyak di dunia**. Kita akan menelusuri negara-negara yang dikenal memiliki ragam kuliner yang luar biasa, mengapa hal itu terjadi, dan apa saja faktor yang melatarbelakangi keberagaman tersebut.
 
