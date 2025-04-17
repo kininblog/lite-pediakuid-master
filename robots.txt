@@ -3,7 +3,7 @@
 # Global rules
 # -----------------
 User-agent: *
-Disallow: https://pediaku.id/404.html
+Disallow: /404.html
 
 
 # We're experimenting with blocking search results to prevent search result spam
