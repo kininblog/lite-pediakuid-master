@@ -5,7 +5,7 @@ author: nanda
 category: game
 tags: game online
 keywords: game pc ringan online, game online pc ringan gratis, game pc ringan spek rendah, game pc kentang online, rekomendasi game pc ringan online, game online ringan tanpa lag, game pc ringan multiplayer, game online ringan seru, game pc ringan ukuran kecil, game pc ringan untuk laptop spek rendah
-description: Butuh game PC ringan online yang seru untuk PC kentang kamu? Temukan 5 rekomendasi game online seru yang bisa dimainkan lancar di spek rendah, beserta tips dan keyword populer."
+description: Butuh game PC ringan online yang seru untuk PC kentang kamu? Temukan 5 rekomendasi game online seru yang bisa dimainkan lancar di spek rendah, beserta tips dan keyword populer.
 toc: true
 image: assets/images/game-pc-ringan.webp
 ---

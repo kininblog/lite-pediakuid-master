@@ -10,7 +10,7 @@ toc: false
 image: assets/images/robin-sharma.webp
 ---
 
-[Buku *Who Will Cry When You Die?*](https://pediaku.id/buku-who-will-cry-when-your-die/) karya Robin Sharma merupakan salah satu karya self-help yang telah menginspirasi jutaan pembaca di seluruh dunia. Di dalam buku ini, pembaca diajak untuk merenungi makna hidup, mengasah kebijaksanaan, dan menemukan cara untuk menjalani kehidupan dengan penuh integritas serta tujuan. Penasaran, <i><a href="https://www.20thcenturydirect.com/" style="color: red" >lihat selengkapnya</a></i> ulasan dari pediaku 
+[Buku *Who Will Cry When You Die?*](https://pediaku.id/buku-who-will-cry-when-your-die/) karya [Robin Sharma](https://pediaku.id/siapa-robin-sharma/) merupakan salah satu karya self-help yang telah menginspirasi jutaan pembaca di seluruh dunia. Di dalam buku ini, pembaca diajak untuk merenungi makna hidup, mengasah kebijaksanaan, dan menemukan cara untuk menjalani kehidupan dengan penuh integritas serta tujuan. Penasaran, <i><a href="https://www.20thcenturydirect.com/" style="color: red" >lihat selengkapnya</a></i> ulasan dari pediaku 
 
 >Pada paragraf kedua, penting untuk menyadari bahwa buku semacam ini juga dapat berperan sebagai <i><a href="https://www.20thcenturydirect.com/2025/02/02/5-buku-yang-harus-dibaca-sebelum-memulai-bisnis-sendiri/" style="color: red">Buku untuk Memulai Bisnis</a></i> karena prinsip-prinsip kepemimpinan, pengembangan diri, dan pengambilan keputusan yang diterapkan dalam dunia bisnis. Pengalaman [membaca buku](https://pediaku.id/alasan-orang-indonesia-malas-membaca/) ini tidak hanya memberikan wawasan baru tentang cara menghadapi tantangan hidup, tetapi juga menginspirasi para pengusaha untuk merancang strategi bisnis dengan lebih humanis dan visioner.
 
