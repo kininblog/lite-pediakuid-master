@@ -32,16 +32,29 @@ layout: default
     <section class="grid grid-cols-6 py-4">
       <div class="col-span-full lg:col-start-2 lg:col-span-4">
         <div class="lg:col-start-2 col-span-4 prose prose-custom">
-
           {% if page.image %}
 
           {% if site.lazyimages == "enabled" %}
-          <img class="featured-image img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+            <img 
+              class="featured-image img-fluid lazyimg dark:brightness-75" 
+              height="483px" 
+              width="760px"
+              src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII="
+              data-src="{% if page.image contains '://' %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}"
+              alt="{{ page.title }}"
+            >
           {% else %}
-          <img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+            <img 
+              class="featured-image img-fluid dark:brightness-75" 
+              height="483px" 
+              width="760px"
+              src="{% if page.image contains '://' %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}"
+              alt="{{ page.title }}"
+            >
           {% endif %}
-
-          {% endif %}
+        
+        {% endif %}
+        
           
           {{ content }}
         </div>
