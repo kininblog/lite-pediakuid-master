@@ -32,3 +32,5 @@ Destinasi wisata [arung jeram di Pariaman](https://pediaku.id/rafting-lubuk-alun
 
 Bagi pemula, Anda tidak perlu kawatir karena tentu saja ini sudah dilengkapi dengan keamanan dan pemandu sehingga dapat menghilangkan kecemasan Anda. Selain itu, rafting juga merupakan [wisata](https://pediaku.id/liburan-thailand-low-budget/) yang cocok untuk keluarga atau bersama teman. Selain rekomendasi untuk rafting, Anda dan keluarga juga bisa menikmati liburan dengan camping, dan [mengatur rencana camping](https://pediaku.id/mengatur-rencana-camping-akhir-pekan/)
 
+Di Pariaman terdapat banyak destinasi wisata lainnya, contohnya [pulau angso duo](https://pediaku.id/pulau-angso-duo-pariaman/) yang juga populer dikunjungi wisatawan
+

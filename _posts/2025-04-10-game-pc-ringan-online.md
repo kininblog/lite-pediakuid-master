@@ -10,7 +10,7 @@ toc: true
 image: assets/images/game-pc-ringan.webp
 ---
 
-Buat kamu yang punya laptop atau PC dengan spek seadanya tapi tetap pengen main bareng teman, tenang aja. Banyak banget kok game online yang ringan tapi tetap asik dan seru dimainkan bareng-bareng. Nah, kali ini aku bakal rekomendasiin 5 game PC ringan online terbaik yang gak cuma jalan di spek rendah, tapi juga punya komunitas yang aktif dan gameplay yang bikin nagih yang bisa kamu jadikan sebagai [referensi situs](https://laptopapik.id/) game dari pediaku id .
+Buat kamu yang punya laptop atau PC dengan spek seadanya tapi tetap pengen main bareng teman, tenang aja. Banyak banget kok game online yang ringan tapi tetap asik dan seru dimainkan bareng-bareng. Nah, kali ini aku bakal rekomendasiin 5 *[game PC ringan online terbaik](https://pediaku.id/game-pc-ringan-online/)* yang gak cuma jalan di spek rendah, tapi juga punya komunitas yang aktif dan gameplay yang bikin nagih yang bisa kamu jadikan sebagai [referensi situs](https://laptopapik.id/) game dari pediaku id .
 
 ---
 
@@ -22,7 +22,7 @@ Team Fortress 2 (TF2) adalah game FPS klasik dari Valve yang fokus ke pertempura
 ### Kenapa Seru?
 - Banyak mode permainan: Payload, Capture the Flag, King of the Hill, dll.
 - Gaya grafis kartun yang khas dan gak bikin berat.
-- Komunitas aktif walau game ini udah cukup lama.
+- Komunitas aktif walau [game](https://pediaku.id/game/) ini udah cukup lama.
 - Bisa dimainkan santai atau kompetitif.
 
 ### Spesifikasi Minimum:
@@ -130,4 +130,4 @@ Paladins adalah hero shooter mirip Overwatch, tapi gratis dan lebih ringan. Kamu
 
 Gak punya PC gaming bukan berarti gak bisa main bareng teman atau ikutan kompetisi. Kelima game ini membuktikan bahwa yang penting bukan cuma grafis, tapi juga gameplay dan komunitasnya. Jadi, buruan download salah satunya, atur setting biar ringan, dan langsung seru-seruan online!
 
-Kalau kamu punya rekomendasi game ringan lainnya, tulis aja di komentar ya. Selamat main dan semoga frag-mu banyak!
+Kalau kamu punya rekomendasi game ringan lainnya, tulis aja di komentar ya. Selamat main dan semoga frag-mu banyak! Oh ya, kamu juga bisa baca ulasan pediaku id tentang *[rekomendasi game offline terbaik](https://pediaku.id/game-ultra-realistis-offline/)*
