@@ -1,0 +1,54 @@
+<!-- File: _includes/url2base64.html -->
+<div class="max-w-xl mx-auto bg-white shadow rounded-lg p-6">
+  <h2 class="text-2xl font-semibold mb-4 text-gray-800">Konversi URL ke SafeLink</h2>
+  <form id="url-converter-form" class="space-y-4">
+    <input type="url" id="url-input" placeholder="https://contoh.com" required
+           class="w-full border border-gray-300 rounded px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500" />
+    <button type="submit" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded px-4 py-2 transition">
+      Convert
+    </button>
+  </form>
+  <div id="converter-result" class="mt-6" style="display:none;">
+    <label class="block text-gray-700 font-medium mb-2">SafeLink:</label>
+    <div class="flex">
+      <input type="text" id="result-text"
+             class="flex-grow border border-gray-300 rounded-l px-4 py-2 bg-gray-100" readonly />
+      <button id="copy-btn" class="bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded-r px-4 py-2 transition">
+        Copy
+      </button>
+    </div>
+  </div>
+</div>
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const form = document.getElementById('url-converter-form');
+    const input = document.getElementById('url-input');
+    const resultDiv = document.getElementById('converter-result');
+    const resultText = document.getElementById('result-text');
+    const copyBtn = document.getElementById('copy-btn');
+
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const url = input.value.trim();
+      try {
+        new URL(url);
+        const raw = btoa(url);
+        const safe = encodeURIComponent(raw);
+        // Bangun SafeLink penuh
+        const origin = window.location.origin;
+        const link = `${origin}/out.html?go=${safe}`;
+        resultText.value = link;
+      } catch {
+        resultText.value = '⚠️ URL tidak valid';
+      }
+      resultDiv.style.display = 'block';
+    });
+
+    copyBtn.addEventListener('click', () => {
+      navigator.clipboard.writeText(resultText.value).then(() => {
+        copyBtn.textContent = 'Copied!';
+        setTimeout(() => copyBtn.textContent = 'Cop y', 2000);
+      });
+    });
+  });
+</script>
